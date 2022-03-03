@@ -56,6 +56,8 @@ In addition, in this mode, the Chabsolu is awakened and allows you to survive tw
 
 ---
 
+---
+
 # Chattack [FR]
 
 Projet Universitaire
@@ -109,3 +111,5 @@ Votre objectif est de défendre le chat qui se trouve à gauche de l'écran.
 
 Dans le mode infini, des vagues d'ennemis générées aléatoirement s'enchaînent jusqu'à votre défaite. Chaque ennemi éliminé vous apporte de l'argent afin de construire plus de défenses.
 De plus, dans ce mode, le Chabsolu est éveillé et vous permet de survivre à deux ennemis qui atteignent la gauche de l'écran. Vous perdez donc après que le troisième ennemi dépasse la gauche de l'écran.
+
+---
