@@ -1,8 +1,11 @@
 ---
 
 # Chattack [EN]
+
 University Project
+
 C language game in the style of "Plants VS Zombies" with Cats.
+
 (The in-game menus are only in French)
 
 ---
@@ -10,12 +13,15 @@ C language game in the style of "Plants VS Zombies" with Cats.
 ## How to launch the game ?
 
 ### Download and install the graphics library
+
 http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation.html
 
 ### Compilation
+
 make
 
 ### Launch
+
 ./chattack
 
 ## How to play ?
@@ -51,8 +57,11 @@ In addition, in this mode, the Chabsolu is awakened and allows you to survive tw
 ---
 
 # Chattack [FR]
+
 Projet Universitaire
+
 Jeu vidéo programmé en C dans le style de "Plants VS Zombies" avec des Chats.
+
 (Les menus en jeu sont en Français)
 
 ---
@@ -60,12 +69,15 @@ Jeu vidéo programmé en C dans le style de "Plants VS Zombies" avec des Chats.
 ## Comment lancer le jeu ?
 
 ### Télécharger et installer la librairie graphique
+
 http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation.html
 
 ### Compilation
+
 make
 
 ### Lancement
+
 ./chattack
 
 ## Comment jouer ?
