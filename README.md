@@ -19,6 +19,7 @@ http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation.html
 ### Compilation
 
 make
+*(default : use clang)*
 
 ### Launch
 
@@ -77,6 +78,7 @@ http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation.html
 ### Compilation
 
 make
+*(par défaut : utilise clang)*
 
 ### Lancement
 
