@@ -1,3 +1,10 @@
+/*
+ * Chattack
+ * Décembre 2021 - Janvier 2022
+ * BERNIER Valentin - ISTASSES Valentin
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
