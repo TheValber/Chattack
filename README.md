@@ -10,9 +10,19 @@ C language game in the style of "Plants VS Zombies" with Cats.
 
 (The in-game menus are only in French)
 
+## Specific Features
+
+- Using linked lists in different ways
+- Graphical interface usable with the mouse
+- Game design and balancing of a strategy game
+
 ---
 
 ## How to launch the game ?
+
+### Requirements
+
+The game only works on a Linux distribution. You also need to install the graphics library.
 
 ### Download and install the graphics library
 
@@ -69,11 +79,19 @@ Décembre 2021 - Janvier 2022
 
 Jeu vidéo programmé en C dans le style de "Plants VS Zombies" avec des Chats.
 
-(Les menus en jeu sont en Français)
+## Fonctionnalités spécifiques
+
+- Utilisation de listes chaînées de différentes façons
+- Interface graphique utilisable à la souris
+- Game design et équilbrage d'un jeu de stratégie
 
 ---
 
 ## Comment lancer le jeu ?
+
+### Prérequis
+
+Le jeu fonctionne uniquement sur une distribution Linux. Vous devez aussi installer la librairie graphique.
 
 ### Télécharger et installer la librairie graphique
 
