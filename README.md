@@ -4,6 +4,8 @@
 
 University Project
 
+December 2021 - January 2022
+
 C language game in the style of "Plants VS Zombies" with Cats.
 
 (The in-game menus are only in French)
@@ -62,6 +64,8 @@ In addition, in this mode, the Chabsolu is awakened and allows you to survive tw
 # Chattack [FR]
 
 Projet Universitaire
+
+Décembre 2021 - Janvier 2022
 
 Jeu vidéo programmé en C dans le style de "Plants VS Zombies" avec des Chats.
 
